@@ -37,7 +37,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with Laravel.
    php artisan key:generate
 
 6. Set database in .env file
-   DB_DATABASE=your_database_name
+   DB_DATABASE=crud_app_db
    DB_USERNAME=root
    DB_PASSWORD=
 
